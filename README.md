@@ -79,23 +79,25 @@ Evaluation includes:
 ## Project Structure
 
 ```
-federated-pneumonia-detection
+## Project Structure
+
+```text
+federated-learning-pneumonia-classification
 │
-├── federated_learning.ipynb
-├── README.md
-├── requirements.txt
-└── model/
+├── federated_learning.ipynb    # Jupyter Notebook containing the complete implementation
+├── README.md                   # Project documentation
+└── LICENSE                     # MIT License
 ```
 
 ---
 
 ## How to Run
 
-1. Clone this repository.
-2. Install the required Python libraries.
-3. Open the notebook in Google Colab or Jupyter Notebook.
-4. Run all cells sequentially.
-5. Evaluate the trained federated model.
+1. Clone or download this repository.
+2. Open `federated_learning.ipynb` in Google Colab or Jupyter Notebook.
+3. Install the required Python libraries if prompted.
+4. Run all notebook cells sequentially.
+5. Evaluate the trained federated learning model.
 
 ---
 
